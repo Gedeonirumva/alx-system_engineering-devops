@@ -1,2 +1,2 @@
-# chown betty hello
-# ls -l myfile
+#!/bin/bash
+chown betty hello
