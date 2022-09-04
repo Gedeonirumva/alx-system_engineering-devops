@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-/root/alx-system_engineering-devops/0x00-shell_basics
-
-=======
-#!/bin/bash 
 pwd
->>>>>>> c618d423dae60b1daec877a49b571fe2dd224fad
