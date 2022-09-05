@@ -1,2 +1,2 @@
-u="$USER"
-echo "User name $u"
+#!/bin/bash
+root
