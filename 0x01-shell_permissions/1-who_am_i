@@ -1,2 +1,2 @@
-u="$USER"
+#!/bin/bash
 echo "User name $u"
