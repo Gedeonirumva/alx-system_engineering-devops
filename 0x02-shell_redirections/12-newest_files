@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -ltur | tail -10
