@@ -1,6 +1,5 @@
-0x00-Shell_basics
-#Shell Scripting Basics Exercises
-
+<b> 0x00-Shell_basics </b> <br>
+SHELL BASICS PROJECT
 Exercise 0: pwd === print working directory
 
 Exercise 1: ls === list directory contents
